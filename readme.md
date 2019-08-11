@@ -6,4 +6,4 @@ The source code of the programme developed during my master's thesis is found he
 
 In case of questions, feel free to contact me here or on +45 23 33 63 61 or jacobgroes@gmail.com.
 
-[![Storstrøm Bridge](https://imgur.com/PGNjNzm)]()
+[![Storstrøm Bridge](https://i.imgur.com/PGNjNzm)]()
